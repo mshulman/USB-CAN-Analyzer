@@ -41,7 +41,7 @@ You can see an onboard green jumper cap as the following figure shown. When you 
 
 
 
-## Software in winwdows
+## Software in Windows
 
 ### Basic Function
 
